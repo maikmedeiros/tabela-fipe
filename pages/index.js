@@ -10,9 +10,9 @@ export default function Home() {
               
       <div class="box">
       <h1>Tabela Fipe</h1>
-        <a href="http://localhost:3000/veiculos/carro" ><Carro class="icones" /></a>
-        <a href="http://localhost:3000/veiculos/caminhao"><Caminhao class="icones" /></a>
-        <a href="http://localhost:3000/veiculos/moto"><Moto class="icones" /></a>
+        <a href="https://tabela-fipe-lime.vercel.app/veiculos/carro" ><Carro class="icones" /></a>
+        <a href="https://tabela-fipe-lime.vercel.app/veiculos/caminhao"><Caminhao class="icones" /></a>
+        <a href="https://tabela-fipe-lime.vercel.app/veiculos/moto"><Moto class="icones" /></a>
       </div>
     </div>
   )
